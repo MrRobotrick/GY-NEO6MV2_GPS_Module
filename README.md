@@ -12,6 +12,8 @@ This tiny GPS Module can connect to 4 Sattelite and it is pretty accurate.
 The library I use to interact with this module makes getting coordinates very easy., just add it to your libraries, connect the module, and run the code below.
 You will need to download SoftwareSerial library to communicate with the module.
 
+https://github.com/PaulStoffregen/SoftwareSerial
+
 To check if the module is properly connected to a satellite, a red led should blink on it.
 
 The library has few useful examples too, so go and try them yourself.
